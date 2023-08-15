@@ -34,6 +34,11 @@ pip install scipy
 
 ## Part 1 : Antarctica
 
+### Objective :
+
+<p align="justify">
+This comprehensive study encompasses three distinct objectives, each shedding light on crucial facets of climate dynamics. Firstly, a meticulous comparative analysis unveils potential relationships between Antarctic mass and air temperature. Employing adept plotting techniques, this inquiry seeks patterns that can elucidate the intricate interplay between these pivotal elements. Secondly, an exploration into the world of gentoo penguin nests, air temperature, and ice mass delves into the unique ecosystem dynamics. This study delves into the interdependence of gentoo penguin nesting behaviors with varying air temperatures and ice mass conditions, unravelling the delicate equilibrium in this critical ecosystem. Lastly, this endeavor conducts an in-depth comparative examination encompassing radiation factors, air temperature, and ice mass. By skillfully intertwining these components, the study ventures into uncharted territories, deciphering the complex links between climatic variables and environmental shifts. Through these multi-faceted investigations, this project aims to contribute to the broader understanding of climate patterns, environmental shifts, and their impacts on both the Antarctic region and the diverse ecosystems within it. The outcomes of this study hold the potential to illuminate critical insights for policy-making, conservation efforts, and sustainable management strategies, fostering a more resilient and harmonious coexistence between natural systems and the ever-changing climate.
+</p>
 
 
 ## Part 2 : Metropolitian Cities
