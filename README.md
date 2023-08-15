@@ -5,7 +5,7 @@
    
 # Earth Fever : The Unignorable impact of Climate Change
 
-## Overview
+## Introduction
 
 In the midst of the complex interplay between global climate change and its consequential impacts, this project embarks on a rigorous analysis of Antarctic mass and air temperature data. By meticulously examining the historical trends and fluctuations in these critical variables, we aim to uncover the nuanced relationship between the Antarctic mass balance and air temperature variations. This analysis spans geographical boundaries, encompassing five distinct countries, and seeks to illuminate the far-reaching implications of these interactions on both regional and global scales. Through this endeavor, we aspire to deepen our understanding of the intricate dynamics at play and contribute insights essential for informed climate policy formulation and adaptive strategies.
 
