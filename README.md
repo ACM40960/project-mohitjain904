@@ -1,7 +1,8 @@
 
 ![](https://github.com/ACM40960/project-mohitjain904/blob/main/Images/Header.gif)
 
-  
+ <p align="justify">
+   
 # Earth Fever : The Unignorable impact of Climate Change
 
 ## Overview
@@ -17,6 +18,7 @@ In the midst of the complex interplay between global climate change and its cons
 ## Installation
 
 </p>
+
 Installing the Libraries
 
 ```bash
