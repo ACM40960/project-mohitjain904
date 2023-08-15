@@ -31,3 +31,9 @@ pip install statsmodels
 pip install sklearn
 pip install scipy
 ```
+
+## Part 1 : Antarctica
+
+
+
+## Part 2 : Metropolitian Cities
