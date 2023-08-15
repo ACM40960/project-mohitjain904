@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project aims to comprehensively examine the factors contributing to global warming by analyzing a diverse dataset of global surface temperature measurements, atmospheric CO2 concentrations, volcanic activity, and solar irradiance over various timescales. By employing robust statistical methods and data visualization techniques, we will explore the relationships between these variables to discern whether human-made factors, particularly increased CO2 emissions, are the primary drivers of observed global temperature increases
+In the midst of the complex interplay between global climate change and its consequential impacts, this project embarks on a rigorous analysis of Antarctic mass and air temperature data. By meticulously examining the historical trends and fluctuations in these critical variables, we aim to uncover the nuanced relationship between the Antarctic mass balance and air temperature variations. This analysis spans geographical boundaries, encompassing five distinct countries, and seeks to illuminate the far-reaching implications of these interactions on both regional and global scales. Through this endeavor, we aspire to deepen our understanding of the intricate dynamics at play and contribute insights essential for informed climate policy formulation and adaptive strategies.
 
 ## Authors
 
