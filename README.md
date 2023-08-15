@@ -247,7 +247,7 @@ Equally pivotal is the acknowledgment of the dual influence of disasters on exac
 In conclusion, our analysis paints a multi-faceted portrait of the global warming landscape. The escalation of radiation levels and the consequent temperature surges underscore the inextricable connection between human activity and environmental transformations. While our findings elucidate the resilience of living populations in the face of these changes, they simultaneously serve as a clarion call for concerted action. Urgent measures are imperative to curb the proliferation of radiation, both through prudent policies and individual behavioral shifts. Moreover, the revelation of man-made disasters as pivotal drivers of global warming necessitates a profound reevaluation of our stewardship of the planet. The crossroads we face demand nothing short of a united commitment to reverse this trajectory and forge a sustainable path forward for the well-being of our planet and generations to come.
 </p>
 
-## Future Work
+## Future Work : 
 
 <p align="justify">
 
@@ -260,3 +260,17 @@ Moreover, given the role of disasters in exacerbating global warming, comprehens
 Synthesizing the results from radiation, temperature, and disaster analyses, interdisciplinary research could unravel intricate feedback loops and potentially identify synergistic interventions to mitigate environmental degradation. Ultimately, this multifaceted approach holds the promise of fostering a more resilient and sustainable global ecosystem in the face of ongoing climate challenges.
 
 </p>
+
+## Code : 
+
+- [@Antarctic Data Study](https://github.com/mohitjain904)
+
+- [@Metropolitian Study](https://github.com/Rucha-Kardile)
+
+## Dataset Reference : 
+
+The Datasets used throughout the study have been referenced in the respective python files.
+
+## Acknowledgement
+
+I would like to express my sincere gratitude to Dr. Sarp Akcay for all his guidance and support throughout the module at University College Dublin. I am grateful to the University College Dublin for providing resources that made this project possible. Lastly, I want to thank everyone who directly or indirectly supported me during this endeavor.
