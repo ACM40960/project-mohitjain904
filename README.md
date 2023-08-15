@@ -263,13 +263,17 @@ Synthesizing the results from radiation, temperature, and disaster analyses, int
 
 ## Code : 
 
-- [@Antarctic Data Study](https://github.com/mohitjain904)
+- [@Antarctic Data Study](https://github.com/ACM40960/project-mohitjain904/blob/main/Python%20Files/Antarctica.ipynb)
 
-- [@Metropolitian Study](https://github.com/Rucha-Kardile)
+- [@Metropolitian Study](https://github.com/ACM40960/project-mohitjain904/blob/main/Python%20Files/Metropolitian.ipynb)
 
 ## Dataset Reference : 
 
 The Datasets used throughout the study have been referenced in the respective python files.
+
+## Poster :
+
+- [@Poster](https://github.com/ACM40960/project-mohitjain904/blob/main/Python%20Files/Antarctica.ipynb)
 
 ## Acknowledgement
 
