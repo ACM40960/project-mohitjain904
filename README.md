@@ -273,7 +273,7 @@ The Datasets used throughout the study have been referenced in the respective py
 
 ## Poster :
 
-- [@Poster](https://github.com/ACM40960/project-mohitjain904/blob/main/Python%20Files/Antarctica.ipynb)
+- [@Poster](https://github.com/ACM40960/project-mohitjain904/blob/main/Poster/Poster.pdf)
 
 ## Acknowledgement
 
